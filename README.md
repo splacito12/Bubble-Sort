@@ -14,7 +14,7 @@
 
   The purpose of this program is to take 8 numbers, whihc are inutted by the user, and run them through the program before outputting it in ascending order. 
   
-  **HOW TO USE**
+  **HOW DO YOU USE THE CODE?**
   
     To be able to use this code you will need to install the LC_3 simulator by using the link that will be provided at the end. The program is only compatible witn Windows desktop. A keyboard and mouse is also required so that you can input the numbers and run the program. 
     
