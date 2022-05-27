@@ -18,7 +18,7 @@
 **LINK**
 https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html
 
- **HOW DO YOU USE THE CODE?**
+ **PROGRAM INSTRUCTIONS:**
   
     To be able to use this code you will need to install the LC_3 simulator by using the link that will be provided above. The program is only compatible witn Windows desktop. A keyboard and mouse is also required so that you can input the numbers and run the program. 
     
