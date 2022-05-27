@@ -19,8 +19,3 @@
 **WHAT IS THE PURPOSE OF THE PROGRAM?**
 
   The purpose of this program is to take 8 numbers, whihc are inutted by the user, and run them through the program before outputting it in ascending order. 
-  
-
-**LINK**
-https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html
-
