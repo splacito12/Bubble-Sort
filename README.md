@@ -16,10 +16,9 @@
   
   **HOW TO USE**
   
-    To be able to use this code you will need to install the LC_3 simulator by using this link: 
+    To be able to use this code you will need to install the LC_3 simulator by using the link that will be provided at the end. The program is only compatible witn Windows desktop. A keyboard and mouse is also required so that you can input the numbers and run the program. 
     
-    https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html. 
-    
-    It is only compatible witn Windows desktop. A keyboard and mouse is also required so that you can input the numbers and run the program. 
-    
-    you will then need to download the code from above, or copy and paste it into the LC-3 simulator. Then you are required to use the 'simulator' to input the code file and then run the program before folloingw the instructions that are listed in the prompt of the program.
+    You will then need to download the code from above, or copy and paste it into the LC-3 simulator. Then you are required to use the 'simulator' to input the code file and then run the program before folloingw the instructions that are listed in the prompt of the program.
+
+**LINK**
+https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html
