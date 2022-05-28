@@ -3,7 +3,7 @@
 **TEAM NAME**: Team Teal
 
 
-**Group Members**: Samantha Placito, Noah Curtis, Shawn Chako
+**Group Members**: Samantha Placito, Noah Curtis, Shawn Chacko
 
 
 **WHAT IS BUBBLE SORT?**
